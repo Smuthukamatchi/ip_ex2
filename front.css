@@ -1,0 +1,73 @@
+body {
+    border: 0px;
+    margin: auto;
+}
+.nav{
+    background: #305775;
+    width: 100%;
+    height: 120px;
+    align: center;
+    display: flex;
+}
+p{
+   
+    position: absolute;
+    font-size: 30px;
+    align-content: center;
+    display: flex;
+}
+.logo{
+    width: 10%;
+    height: 80px;
+    border-radius: 50%
+}
+.wrld{
+    width: 70%;
+    height: 300px;
+    position: absolute;
+    left: 10%;
+    top: 35%;
+    background: #68a8d9;
+}
+.wrld img{
+    position: absolute;
+    left: 3%;
+    top: 35%;
+    box-shadow: 5px 10px #5b7e8f;
+
+}
+.call{
+    background: #305775;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    width: 40%;
+    height: 180px;
+}
+.call p{
+    color: yellow;
+    font-size: 20px;
+    position: absolute;
+    left: 28%;
+    top: 0%;
+}
+hr{
+     position: absolute;
+     height: 10px;
+     width: 80%;
+     height: 100px;
+}
+.call h3{
+    color: white;
+    font-size: 14px;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+.welc h1{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 0%;
+    display: block;
+}
